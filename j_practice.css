@@ -1,0 +1,25 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navBar{
+    border: black solid;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-height: 100px;
+}
+.container{
+    border: black solid;
+    position: relative;
+    align-content: center;
+    display: inline-block;
+    width: 100%;
+    justify-content: center;
+}
+
+.table{
+    height: 175px;
+    width: 150px;
+    margin: 0px;
+}
