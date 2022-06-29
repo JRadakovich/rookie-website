@@ -1,5 +1,6 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 .navBar{
@@ -16,10 +17,19 @@
     display: inline-block;
     width: 100%;
     justify-content: center;
+   
 }
 
 .table{
     height: 175px;
     width: 150px;
     margin: 0px;
+}
+#instagram{
+
+    padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 491px; 
+}
 }
